@@ -1,1 +1,1 @@
-https://github.com/Duck737/ono-tebe-nado-fd
+https://github.com/Duck737/posmotri-v-okno-fd.git
