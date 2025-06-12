@@ -1,1 +1,1 @@
-https://github.com/Duck737/posmotri-v-okno-fd.git
+https://github.com/Duck737/posmotri-v-okno-fd
